@@ -1,2 +1,2 @@
 # MeusLivros
-Aplicação Web utilizando AngularJS, Firebase Realtime Databse, Firebase Authentication, Firebase Storage e Bootstrap.
+Aplicação Web <strong>responsiva</strong> utilizando AngularJS, Firebase Realtime Databse, Firebase Authentication, Firebase Storage e Bootstrap.
