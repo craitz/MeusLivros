@@ -7,4 +7,4 @@ Website: https://meus-livros-9fa07.firebaseapp.com
 
 ![Screenshot at 2016-11-18 18:16:18.png](https://github.com/craitz/MeusLivros/blob/master/Screenshot at 2016-11-18 18:16:18.png)
 
-![nglivrosmobile.png](https://github.com/craitz/MeusLivros/blob/master/nglivrosmobile.png)
+![nglivrosmobile4.png](https://github.com/craitz/MeusLivros/blob/master/nglivrosmobile4.png)
